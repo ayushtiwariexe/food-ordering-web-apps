@@ -1,8 +1,6 @@
 # FoodHunt
 
-A food delivery application made using React and Swiggy's API.
-
-This project was built as a part of the course Namaste React by Akshay Saini.
+A food delivery application made using React.
 
 ## Tech Stack
 
@@ -42,7 +40,3 @@ npm start
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
